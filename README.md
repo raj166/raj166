@@ -39,6 +39,5 @@ Welcome to my LinkedIn profile! I am a dedicated Data Scientist and Machine Lear
 
 ## Contact Information 📧
 Feel free to reach out to me at patelraj1677@gmail.com or ping me at 0435341209☕. I'm always open to connecting and discussing opportunities!
-
-Thank you for visiting my LinkedIn profile! Let's connect and explore potential collaborations.
+Let's connect and explore potential collaborations.
 

@@ -2,14 +2,14 @@
 raj166/raj166 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# LinkedIn Profile: Data Scientist & Machine Learning Enthusiast 🚀
+# Data Scientist & Machine Learning Enthusiast 🚀
 
 ## Introduction 🌟
 Welcome to my LinkedIn profile! I am a dedicated Data Scientist and Machine Learning enthusiast with a strong educational background and diverse professional experience across multiple industries. My passion lies in leveraging technology and data-driven insights to drive business growth and optimize processes.
 
 ## Education 📚
 - Bachelor's degree in Computer Engineering
-- Masters of Data Science
+- Master of Data Science
 
 ## Professional Experience 💼
 - **Data Scientist** at WGA (Wallbridge Gilbert Aztec)
@@ -23,8 +23,8 @@ Welcome to my LinkedIn profile! I am a dedicated Data Scientist and Machine Lear
 ## Skills & Expertise 💡
 - Proficient in Python, SQL, MongoDB
 - Experienced with cloud platforms like AWS and GCP
-- Skilled in using Tableau, Power BI for data visualization
-- Familiar with Docker, Git, Terraform for development and deployment
+- Skilled in using Tableau, and Power BI for data visualization
+- Familiar with Docker, Git, and Terraform for development and deployment
 - Specialized in analyzing large datasets, creating predictive models, and developing data pipelines
 
 ## Achievements 🏆

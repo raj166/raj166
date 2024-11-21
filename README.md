@@ -22,8 +22,8 @@ Welcome to my LinkedIn profile! I am a dedicated Data Scientist and Machine Lear
 
 ## Skills & Expertise 💡
 - Proficient in Python, SQL, MongoDB
-- Experienced with cloud platforms like AWS and GCP
-- Skilled in using Tableau, and Power BI for data visualization
+- Experienced with cloud platforms like AWS, Azure and also with data platforms like Snowflake, DBT, and Airflow
+- Skilled in using Power BI and Grafana for data visualization
 - Familiar with Docker, Git, and Terraform for development and deployment
 - Specialized in analyzing large datasets, creating predictive models, and developing data pipelines
 

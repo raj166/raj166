@@ -13,12 +13,12 @@ Welcome to my LinkedIn profile! I am a dedicated Data Scientist and Machine Lear
 
 ## Professional Experience 💼
 - **Data Scientist** at WGA (Wallbridge Gilbert Aztec)
-- **Machine Learning Research Intern** at the Centre of Brain and Research, IISC Bangalore
 - **ML/DL Engineer** at Samyak Infotech Pvt. Ltd.
-- **Junior Data Engineer** at Jay Infocomm
 
+  
 ## Internship Experience 🎓
-- Completed an internship at IVAI (Insight Via Artificial Intelligence), a startup, as part of my master's program.
+- **Machine Learning Research Intern** at the Centre of Brain and Research, IISC Bangalore
+- **Could I Intern** Completed an internship at IVAI (Insight Via Artificial Intelligence), a startup, as part of my master's program.
 
 ## Skills & Expertise 💡
 - Proficient in Python, SQL, MongoDB
@@ -40,4 +40,14 @@ Welcome to my LinkedIn profile! I am a dedicated Data Scientist and Machine Lear
 ## Contact Information 📧
 Feel free to reach out to me at patelraj1677@gmail.com or ping me at 0435341209☕. I'm always open to connecting and discussing opportunities!
 Let's connect and explore potential collaborations.
+
+<hr>
+
+|<img src="https://github-readme-stats.vercel.app/api?username=raj166&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=raj166"/>|
+|---|---|
+
+
+<hr>
+
+
 
